@@ -24,3 +24,6 @@
 ### 03_01_operatorler
 - Aritmetik operatörler incelendi.
 - Bit düzeyinde işlemler incelendi.
+### 03_02_operatorler
+- Mantıksal (İlişkisel) operatörler incelendi.
+- Bit düzeyindeki mantıksal operatörler incelendi.
