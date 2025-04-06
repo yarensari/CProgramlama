@@ -45,3 +45,7 @@
 - stdio kütüphanesine ait olan fflush fonksiyonu öğrenildi.
 ### 04_02_kosulYapilari
 - if - else yapısı kullanılarak para yatırma, para cekme ve bakiye sorgulama gibi işlevleri olan örnek yapıldı. 
+### 04_03_kosulYapilari
+- switch - case yapısı öğrenildi.
+- Hesap makinesi geliştirilerek switch - case yapısı pekiştirildi.
+- break keyword'ünün avantajları öğrenildi.
