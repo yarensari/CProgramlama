@@ -27,3 +27,6 @@
 ### 03_02_operatorler
 - Mantıksal (İlişkisel) operatörler incelendi.
 - Bit düzeyindeki mantıksal operatörler incelendi.
+### 03_03_operatorler
+- Kullanıcıdan girilen para miktarına göre banknot tespiti yapan örnek yapıldı.
+- Kullanıcıdan alınan 3 basamaklı sayının tersini yazdıran örnek yapıldı.
