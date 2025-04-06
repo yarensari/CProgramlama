@@ -20,3 +20,7 @@
 - char veri tipi incelendi.
 - ctype kütüphanesinin fonksiyonları, isalpha - isdigit - isalnum - islower - isupper - tolower - toupper, incelendi.
 - stdlib kütüphanesinde yer alan atio ve atof fonksiyonlarının kullanımı öğrenilerek char dizisinin int ve float veri tipine dönüştürülmesi denendi. 
+## 03_operatorler:
+### 03_01_operatorler
+- Aritmetik operatörler incelendi.
+- Bit düzeyinde işlemler incelendi.
