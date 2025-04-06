@@ -15,7 +15,7 @@
 - integer değişken tipi 10'luk, 8'lik ve 16'lık tabanlarda gösterildi.
 - float değişkenin bilimsel gösterimi gösterildi.
 - printf fonksiyonunun özel karakterleri, \n \t \b, incelendi.
-- printf fonksiyonunun özel karakterlerinin metin içerisinde kullanılması sağlandı (%, ", \)
+- printf fonksiyonunun özel karakterlerinin metin içerisinde kullanılması sağlandı (%, ", \\)
 ### 02_03_temelVeriTipleri
 - char veri tipi incelendi.
 - ctype kütüphanesinin fonksiyonları, isalpha - isdigit - isalnum - islower - isupper - tolower - toupper, incelendi.
@@ -49,3 +49,9 @@
 - switch - case yapısı öğrenildi.
 - Hesap makinesi geliştirilerek switch - case yapısı pekiştirildi.
 - break keyword'ünün avantajları öğrenildi.
+### 04_04_kosulYapilari
+- 3 adet soru çözüldü.
+- Soru - 1 : tolower, toupper, islower, isupper, isalnum ve isdigit fonksiyonlarının algoritması oluşturuldu. getchar ve putchar fonksiyonları öğrenildi.
+- Soru - 2 : Kullanıcıdan alınana ve maksimum beş basamaklı olabilen bir sayının basamak değerini hesaplayan soru yapıldı. Kursta yapılan çözüm de eklendi. 
+- Soru - 3 : Yapılan taksit ve özel kart ile ödeme sonucu fiyatın hesaplanabildiği bir soru yapıldı.
+- Soru - 4 : Kullanıcıdan alınan 3 kenar bilgisine göre üçgen oluşturulup oluşturulmadığını tespit eden soru çözüldü.
