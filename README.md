@@ -43,3 +43,5 @@
 - time kütüphanesine ait olan srand fonksiyonu öğrenildi.
 - stdlib kütüphanesine ait olan rand fonksiyonu öğrenildi.
 - stdio kütüphanesine ait olan fflush fonksiyonu öğrenildi.
+### 04_02_kosulYapilari
+- if - else yapısı kullanılarak para yatırma, para cekme ve bakiye sorgulama gibi işlevleri olan örnek yapıldı. 
