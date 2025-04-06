@@ -30,3 +30,8 @@
 ### 03_03_operatorler
 - Kullanıcıdan girilen para miktarına göre banknot tespiti yapan örnek yapıldı.
 - Kullanıcıdan alınan 3 basamaklı sayının tersini yazdıran örnek yapıldı.
+### 03_04_operatorler
+- 3 adet soru çözüldü.
+- Soru - 1 : Kullanıcıdan alınan a, b ve c değerlerine göre delta hesaplaması yapıldı. Hesaplanan delta değerinin 0'da büyük veya küçük olma durumları sorgulanarak konsol ekranına yazdırıldı.
+- Soru - 2 : Kullanıcıdan vize ve final notları alındı. Ayrıca vize değerinin yüzdelik değeri de kullanıcıdan alındı. Alınan bu değerlerle öğrencinin ortalaması hesaplandı. Daha önceden belirlenen çan eğrisi değerine göre sorgu yapılarak öğrencinin dersi geçip geçmediğini bulan program yazıldı.
+- Soru - 3 : Kullanıcıdan alınan yarıçap değerine göre dairenin alanı ve çevresi hesaplandı. math.h kütüphanesinin fonksiyonları kullanıldı.
