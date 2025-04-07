@@ -55,3 +55,7 @@
 - Soru - 2 : Kullanıcıdan alınana ve maksimum beş basamaklı olabilen bir sayının basamak değerini hesaplayan soru yapıldı. Kursta yapılan çözüm de eklendi. 
 - Soru - 3 : Yapılan taksit ve özel kart ile ödeme sonucu fiyatın hesaplanabildiği bir soru yapıldı.
 - Soru - 4 : Kullanıcıdan alınan 3 kenar bilgisine göre üçgen oluşturulup oluşturulmadığını tespit eden soru çözüldü.
+
+## 05_donguler:
+### 05_01_donguler
+- for döngüsünün mantığı kavrandı.
