@@ -63,3 +63,9 @@
 - while dongüsünün mantığı kavrandı.
 - do - while döngüsünün mantığı kavrandı.
 - break ve continue terimleri öğrenildi.
+### 05_03_donguler
+- Asal sayı hesaplama örneği yapıldı.
+- EBOB - EKOK hesaplama örneği yapıldı.
+- Girilen bir cümledeki boşluk sayısını hesaplama örneği yapıldı.
+- Kullanıcıdan alınan sayıyı tersine çeviren örnek yapıldı.
+- Kullanıcıdan alınan decimal düzeydeki sayıyı binary düzeye çeviren örnek yapıldı.
