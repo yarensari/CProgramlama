@@ -59,3 +59,7 @@
 ## 05_donguler:
 ### 05_01_donguler
 - for döngüsünün mantığı kavrandı.
+### 05_02_donguler
+- while dongüsünün mantığı kavrandı.
+- do - while döngüsünün mantığı kavrandı.
+- break ve continue terimleri öğrenildi.
