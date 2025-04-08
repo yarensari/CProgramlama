@@ -69,3 +69,11 @@
 - Girilen bir cümledeki boşluk sayısını hesaplama örneği yapıldı.
 - Kullanıcıdan alınan sayıyı tersine çeviren örnek yapıldı.
 - Kullanıcıdan alınan decimal düzeydeki sayıyı binary düzeye çeviren örnek yapıldı.
+### 05_04_donguler
+- 4 adet soru çözüldü.
+- Soru - 1 : "*" işareti kullanılarak çeşitli semboller elde edildi. Döngüler kavramının anlaşılması sağlandı.
+- Soru - 2 : Şifre sorgulama sorusu yapıldı. Kullanıcıdan alınan şifre büyük harf, küçük harf ve sayıya sahip olup olmadığı kontrol edildi. Aynı zamanda şifrenin karakter sayısının 8 ile 16 arasında olup olmadığı sorgulandı.
+- Soru - 3 : Kullanıcıdan alınan sayının mükemmel sayı olup olmadığı sorgulandı. Ayrıca 1 ile 1000 arasında yer alan mükemmel sayılar konsola yazdırıldı.
+- Soru - 4 : Kullanıcıdan bir değer aralığı alındı ve bu aralıkta yer alan asal sayılar konsol ekranına yazdırıldı. 
+- Soru - 5 : Kullanıcıdan alınan 3 basamaklı sayının armstrong sayı olup olmadığı sorgulandı. Ayrıca 1 ile 1000 arasında yer alan armstrong sayılar konsola yazdırıldı.
+- Soru - 6 : Soru 3'te yapılan mükemmel sayı sorusu bu sefer döngü şartları kullanılmadan sonsuz bir döngü içerisinde break ve continue ile kontrol edildi.
