@@ -80,4 +80,6 @@
 
 ## 06_diziler:
 ### 06_01_diziler
-- Tek boyutlu diziler kavramının mantığı anlaşıldı.
+- Tek boyutlu dizilerin kavramı anlaşıldı.
+### 06_02_diziler
+- İki boyutlu dizilerin kavramı anlaşıldı.
