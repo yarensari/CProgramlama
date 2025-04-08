@@ -83,3 +83,11 @@
 - Tek boyutlu dizilerin kavramı anlaşıldı.
 ### 06_02_diziler
 - İki boyutlu dizilerin kavramı anlaşıldı.
+### 06_03_diziler
+- 6 adet örnek çözüldü.
+- Örnek - 1 : 2 boyutlu matris tanımlandı ve elemanlarının değerleri random bir şekilde oluşturuldu. Oluşturulan matrisin satır ve sütununda yer alan elemanların değerleri toplandı.
+- Örnek - 2 : 2 boyutlu iki adet matris tanımlandı. Bu matrislerin elemanlarının değerleri random bir şekilde oluşturuldu. Oluşturulan bu matrislerin satır ve sütununda yer alan değerleri toplanarak yeni bir matris oluşturuldu.
+- Örnek - 3 : 2 boyutlu matris tanımlandı ve elemanlarının değerleri random bir şekilde oluşturuldu. Oluşturulan bu matrisin transpozu alındı.
+- Örnek - 4 : Doğrusal arama algoritmasıyla kullanıcıdan alan değerin tek boyutlu dizide olup olmadığı kontrol edildi.
+- Örnek - 5 : Araya sokma algoritmasıyla random bir şekilde oluşturulan tek boyutlu dizi küçükten büyüğe doğru sıralandı.
+- Örnek - 6 : Kabarcık sıralama algoritmasıyla random bir şekilde oluşturulan tek boyutlu dizi küçükten büyüğe doğru sıralandı.
