@@ -77,3 +77,7 @@
 - Soru - 4 : Kullanıcıdan bir değer aralığı alındı ve bu aralıkta yer alan asal sayılar konsol ekranına yazdırıldı. 
 - Soru - 5 : Kullanıcıdan alınan 3 basamaklı sayının armstrong sayı olup olmadığı sorgulandı. Ayrıca 1 ile 1000 arasında yer alan armstrong sayılar konsola yazdırıldı.
 - Soru - 6 : Soru 3'te yapılan mükemmel sayı sorusu bu sefer döngü şartları kullanılmadan sonsuz bir döngü içerisinde break ve continue ile kontrol edildi.
+
+## 06_diziler:
+### 06_01_diziler
+- Tek boyutlu diziler kavramının mantığı anlaşıldı.
