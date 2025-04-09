@@ -91,3 +91,10 @@
 - Örnek - 4 : Doğrusal arama algoritmasıyla kullanıcıdan alan değerin tek boyutlu dizide olup olmadığı kontrol edildi.
 - Örnek - 5 : Araya sokma algoritmasıyla random bir şekilde oluşturulan tek boyutlu dizi küçükten büyüğe doğru sıralandı.
 - Örnek - 6 : Kabarcık sıralama algoritmasıyla random bir şekilde oluşturulan tek boyutlu dizi küçükten büyüğe doğru sıralandı.
+### 06_04_diziler
+- 5 adet soru çözüldü.
+- Soru - 1 : 2 boyutlu 2 adet random değerlerden oluşan matris oluşturuldu. Bu matrislerin çarpılma işlemi yapıldı.
+- Soru - 2 : Random sayılardan tek boyutlu bir matris oluşturuldu. Oluşturulan bu matris kullanıcıdan alınan satır ve sütun değerlerine göre iki boyutlu matris haline getirildi.
+- Soru - 3 : Kullanıcıdan iki boyutlu matris için değerler alındı. Alınan bu değerlerle oluşturulan matrisin simetrik olup olmadığı kontrol edildi.
+- Soru - 4 : Seçmeli sıralama algoritmasıyla random sayılarla oluşturulan tek boyutlu dizi küçükten büyüğe sıralandı.
+- Soru - 5 : İkili arama algoritmasıyla kullanıcıdan alınan değerin dizide olup olmadığı kontrol edildi.
