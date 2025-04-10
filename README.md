@@ -105,3 +105,5 @@
 - '\0' karakterinin string veri tipindeki önemi fark edildi.
 - printf ve scanf fonksiyonlarının char dizileriyle kullanımı öğrenildi.
 - İki boyutlu char dizisi öğrenildi.
+### 07_02_karakterDizileri
+- printf ve scanf fonksiyonlarına alternatif olabilecek puts ve gets fonksiyonları öğrenildi ve aralarındaki farklar fark edildi.
