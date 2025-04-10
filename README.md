@@ -109,3 +109,11 @@
 - printf ve scanf fonksiyonlarına alternatif olabilecek puts ve gets fonksiyonları öğrenildi ve aralarındaki farklar fark edildi.
 ### 07_03_karakterDizileri
 - string kütüphanesinde yer alan strlen, strcpy, strcat ve strcmp fonksiyonları öğrenildi.
+### 07_04_karakterDizileri
+- 6 adet örnek çözüldü.
+- Örnek - 1 : strlen, strcpy, strcat ve strcmp fonksiyonları yazıldı.
+- Örnek - 2 : Kullanıcıdan bir string değer alındı ve bu değer tersine çevrildi.
+- Örnek - 3 : Küçük büyük harf duyarlılığı olmayan karşılaştırma programı yazıldı.
+- Örnek - 4 : Kullanıcında bir cümle alındı ve bu cümlede kaç adet kelime ve harf içerdiği tespit edildi. Cümlede kelimelerin ortalama kaç harften oluştuğu bulundu.
+- Örnek - 5 : Kullanıcıdan string bir değişken ve 2 adet harf alındı. Kullanıcıdan alınan stringte aranan harfin kaç adet olduğu belirlendi. İstenilen harf ile değiştirildi.
+- Örnek - 6 : Palindrom sorgusu yapılan örnek yapıldı. 
