@@ -98,3 +98,10 @@
 - Soru - 3 : Kullanıcıdan iki boyutlu matris için değerler alındı. Alınan bu değerlerle oluşturulan matrisin simetrik olup olmadığı kontrol edildi.
 - Soru - 4 : Seçmeli sıralama algoritmasıyla random sayılarla oluşturulan tek boyutlu dizi küçükten büyüğe sıralandı.
 - Soru - 5 : İkili arama algoritmasıyla kullanıcıdan alınan değerin dizide olup olmadığı kontrol edildi.
+
+## 07_karakterDizileri:
+### 07_01_karakterDizileri
+- char veri tipiyle string veri tipi oluşturulması öğrenildi.
+- '\0' karakterinin string veri tipindeki önemi fark edildi.
+- printf ve scanf fonksiyonlarının char dizileriyle kullanımı öğrenildi.
+- İki boyutlu char dizisi öğrenildi.
