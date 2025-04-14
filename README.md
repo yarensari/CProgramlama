@@ -128,3 +128,5 @@
 ### 08_01_fonksiyonlar
 - Fonksiyonların kullanım amacı öğrenildi.
 - Fonksiyonun prototipi öğrenildi.
+### 08_02_fonksiyonlar
+- Local ve global değişkenler öğrenildi.
