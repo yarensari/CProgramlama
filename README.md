@@ -130,3 +130,5 @@
 - Fonksiyonun prototipi öğrenildi.
 ### 08_02_fonksiyonlar
 - Local ve global değişkenler öğrenildi.
+### 08_03_fonksiyonlar
+- Recursive fonksiyonlar (kendini yenileyen fonksiyonlar) öğrenildi.
