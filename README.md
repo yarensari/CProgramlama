@@ -123,3 +123,8 @@
 - Soru - 2 : Kullanıcıdan 2 adet string değer alındı. İkinci string'in birinci stringin içerisinde geçip geçmediğine bakıldı. Kursta yapılan çözümde farklı algoritma kullanıldığı için o da kod dosyasına eklendi.
 - Soru - 3 : Kullanıcıdan 2 adet string alındı ve bu stringlerin birbirinin anagramı olup olmadığı kontrol edildi.
 - Soru - 4 : Kullanıcıdan string alındı ve bu stringin baş harfleri büyük harfe dönüştürüldü Aynı zamanda baş harfler başka bir stringte tutuldu ve konsol ekranına yazdırıldı.
+
+## 08_fonksiyonlar:
+### 08_01_fonksiyonlar
+- Fonksiyonların kullanım amacı öğrenildi.
+- Fonksiyonun prototipi öğrenildi.
