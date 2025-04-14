@@ -117,3 +117,9 @@
 - Örnek - 4 : Kullanıcında bir cümle alındı ve bu cümlede kaç adet kelime ve harf içerdiği tespit edildi. Cümlede kelimelerin ortalama kaç harften oluştuğu bulundu.
 - Örnek - 5 : Kullanıcıdan string bir değişken ve 2 adet harf alındı. Kullanıcıdan alınan stringte aranan harfin kaç adet olduğu belirlendi. İstenilen harf ile değiştirildi.
 - Örnek - 6 : Palindrom sorgusu yapılan örnek yapıldı. 
+### 07_05_karakterDizileri
+- 4 adet soru çözüldü.
+- Soru - 1 : Kullanıcıdan string bir ifade alındı. Bu string ifade de yer alan büyük harfler küçük harfe, küçük harfler ise büyük harfe çevrildi. puts, gets, isupper, tolower, toupper fonksiyonları kullanıldı.
+- Soru - 2 : Kullanıcıdan 2 adet string değer alındı. İkinci string'in birinci stringin içerisinde geçip geçmediğine bakıldı. Kursta yapılan çözümde farklı algoritma kullanıldığı için o da kod dosyasına eklendi.
+- Soru - 3 : Kullanıcıdan 2 adet string alındı ve bu stringlerin birbirinin anagramı olup olmadığı kontrol edildi.
+- Soru - 4 : Kullanıcıdan string alındı ve bu stringin baş harfleri büyük harfe dönüştürüldü Aynı zamanda baş harfler başka bir stringte tutuldu ve konsol ekranına yazdırıldı.
