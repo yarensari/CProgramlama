@@ -140,3 +140,10 @@
 - Örnek - 4 : Kullanıcıdan bir string alındı ve bu string'in içerisinde kaç adet küçük ünlü harf bulunduğu hesaplandı.
 - Örnek - 5 : Fibonacci seriyi oluşturan kod yazıldı. Kullanıcıdan bir üst limit alınarak fonksiyonların özyinelemeli özelliği kullanıldı.
 - Örnek - 6 : Binary Search (İkili Arama) algoritması recursive (özyinelemeli) fonksiyon kullanılarak tekrardan yapıldı.
+### 08_05_fonksiyonlar
+- 5 adet soru çözüldü.
+- Soru - 1 : Kullanıcıdan string bir değer alındı. Bu stringin içerisinde yer alan karakterlerin sayısı bulundu. Eğer karakter daha önceden kullanıldıysa o karakter tekrardan sayılmadı. Boşluk da karakter olarak sayıldı.
+- Soru - 2 : GCD algoritması kullanılarak EBOB ve EKOK hesabı yapan kod yazıldı. Recursive (özyinelemeli) fonksiyonlar tekrar edildi.
+- Soru - 3 : Kullanıcıdan 3x3 matris için değerler alındı. Oluşturulan matrisin diagonal çarpımını yapan fonksiyon oluşturuldu. Aynı zamanda matris oluşturma ve yazdırma fonksiyonları da oluşturuldu.
+- Soru - 4 : Kullanıcıdan alınan matris değerinin bu sefer sağ üst köşeden sol alt köşeye kadar olan değerlerin çarpımı hesaplandı. Sol üst köşeden sağ alt köşeye kadar olan değerlerin çarpımıyla karşılaştırılma yapıldı ve eşitse 1 değilse 0 değeri dönen fonksiyon yazıldı.
+- Soru - 5 : Kullanıcıda 3x3'lük matris değerleri alındı. Matriste yer alan satır ve sütunlardaki elemanların toplamı hesaplandı. Bu işlemler tek bir döngüde bir fonksiyonun içerisinde yapıldı. 
