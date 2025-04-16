@@ -132,3 +132,11 @@
 - Local ve global değişkenler öğrenildi.
 ### 08_03_fonksiyonlar
 - Recursive fonksiyonlar (kendini yenileyen fonksiyonlar) öğrenildi.
+### 08_04_fonksiyonlar
+- 6 adet örnek çözüldü.
+- Örnek - 1 : Seçmeli sıralama algoritmasının kullanımı fonksiyonlaştırıldı. Değişken olarak dizi bekleyen fonksiyon oluşturuldu ve dizilerin adreslerle iletilmesinin sonuçlarına odaklanıldı.
+- Örnek - 2 : Kullanıcıdan alınan iki stringin anagram olup olmadığı belirleyen program fonksiyonlaştırıldı.
+- Örnek - 3 : Random bir şekilde oluşturulan dizide yer alan en büyük ve en küçük n. değeri bulan program oluşturuldu.
+- Örnek - 4 : Kullanıcıdan bir string alındı ve bu string'in içerisinde kaç adet küçük ünlü harf bulunduğu hesaplandı.
+- Örnek - 5 : Fibonacci seriyi oluşturan kod yazıldı. Kullanıcıdan bir üst limit alınarak fonksiyonların özyinelemeli özelliği kullanıldı.
+- Örnek - 6 : Binary Search (İkili Arama) algoritması recursive (özyinelemeli) fonksiyon kullanılarak tekrardan yapıldı.
