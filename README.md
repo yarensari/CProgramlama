@@ -160,3 +160,7 @@
 - İşaretçilerle 2 boyutlu karakter dizilerinin oluşturulması sağlandı.
 ### 09_04_isaretciler
 - call by value ve call by reference değerleriyle fonksiyonlara değer gönderildi.
+### 09_05_isaretciler
+- Fonksiyon pointer'ın tanımlaması öğrenildi.
+- Fonksiyon pointer dizisinin tanımlaması öğrenildi.
+- Değer olarak fonksiyon pointer alan fonksiyon öğrenildi.
