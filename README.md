@@ -152,3 +152,6 @@
 ### 09_01_isaretciler
 - Pointerların ne işe yaradığı kavrandı. 
 - Pointerların tanımlamaları ve * operatörünün kullanımı öğrenildi.
+### 09_02_isaretciler
+- Dizilerle işaretçiler arasındaki ilişki öğrenildi.
+- Pointer aritmetiği öğrenildi (+ ve * operatörlerinin kullanım sırasının önemi).
