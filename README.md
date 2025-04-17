@@ -158,3 +158,5 @@
 ### 09_03_isaretciler
 - İşaretçilerin karakter dizileriyle kullanımı öğrenildi.
 - İşaretçilerle 2 boyutlu karakter dizilerinin oluşturulması sağlandı.
+### 09_04_isaretciler
+- call by value ve call by reference değerleriyle fonksiyonlara değer gönderildi.
