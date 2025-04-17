@@ -147,3 +147,8 @@
 - Soru - 3 : Kullanıcıdan 3x3 matris için değerler alındı. Oluşturulan matrisin diagonal çarpımını yapan fonksiyon oluşturuldu. Aynı zamanda matris oluşturma ve yazdırma fonksiyonları da oluşturuldu.
 - Soru - 4 : Kullanıcıdan alınan matris değerinin bu sefer sağ üst köşeden sol alt köşeye kadar olan değerlerin çarpımı hesaplandı. Sol üst köşeden sağ alt köşeye kadar olan değerlerin çarpımıyla karşılaştırılma yapıldı ve eşitse 1 değilse 0 değeri dönen fonksiyon yazıldı.
 - Soru - 5 : Kullanıcıda 3x3'lük matris değerleri alındı. Matriste yer alan satır ve sütunlardaki elemanların toplamı hesaplandı. Bu işlemler tek bir döngüde bir fonksiyonun içerisinde yapıldı. 
+
+## 09_isaretciler:
+### 09_01_isaretciler
+- Pointerların ne işe yaradığı kavrandı. 
+- Pointerların tanımlamaları ve * operatörünün kullanımı öğrenildi.
