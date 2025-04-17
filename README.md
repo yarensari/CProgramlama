@@ -155,3 +155,6 @@
 ### 09_02_isaretciler
 - Dizilerle işaretçiler arasındaki ilişki öğrenildi.
 - Pointer aritmetiği öğrenildi (+ ve * operatörlerinin kullanım sırasının önemi).
+### 09_03_isaretciler
+- İşaretçilerin karakter dizileriyle kullanımı öğrenildi.
+- İşaretçilerle 2 boyutlu karakter dizilerinin oluşturulması sağlandı.
