@@ -164,3 +164,10 @@
 - Fonksiyon pointer'ın tanımlaması öğrenildi.
 - Fonksiyon pointer dizisinin tanımlaması öğrenildi.
 - Değer olarak fonksiyon pointer alan fonksiyon öğrenildi.
+### 09_06_isaretciler
+- 5 adet örnek çözüldü.
+- Örnek - 1 : Pointer kullanılarak random dizi oluşturan ve bu diziyi yazdıran fonksiyonlar oluşturuldu. Değişkenin adresi üzerinde değişiklik yapacak şekilde dizide yer alan maksimum ve minimum değerler bulundu. Değişkenin adresi üzerinde değişiklik yapılarak dizinin toplam değeri ve ortalaması da bulundu. 
+- Örnek - 2 : Türkçe, İngilizce ve Almanca dillerinde merhaba dünya yazdıran fonksiyonlar tanımlandı. Bir adet de bu fonksiyonları kontrol edebilecek bir fonksiyon tanımlandı. Bu fonksiyon değişken olarak bir fonksiyon işaretçi array'i bekleyecek şekilde tasarlandı.
+- Örnek - 3 : Bir string ifade belirlendi ve bu string ifadenin içerisinde yer alan boşluk sayısı sayıldı. Bu işlemler bir fonksiyonda yapıldı ve boşluk sayısının değeri adresle tutularak main üzerinde direkt değişiklik sağlandı.
+- Örnek - 4 : String bir ifadenin tersini yazdırma fonksiyonu oluşturuldu ve bu yazdırma işleminde pointerlar kullanıldı.
+- Örnek - 5 : Pointer mantığı kullanılarak strlen ve strcmp fonksiyonları yazıldı.
