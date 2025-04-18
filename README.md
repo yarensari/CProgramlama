@@ -177,3 +177,8 @@
 - Soru - 2 : Pointerlar kullanılarak strcat ve strcpy fonksiyonları oluşturuldu.
 - Soru - 3 : Kullanıcıdan bir string ifade ve karakter alındı. Bu string ifadede aranan karakterin kaç adet olduğu pointer kavramıyla tespit edildi.
 - Soru - 4 : Fonksiyon pointer array'i kullanılarak bir fonksiyondan başka fonksiyonların kullanımı sağlandı. Bu soruda toplama, çıkarma, bölme ve çarpma işlemlerinin fonksiyonu fonksiyon pointer array bekleyen bir fonksiyonla yönetildi.
+
+## 10_dinamikBellekYonetimi:
+### 10_01_dinamikBellekYonetimi
+- Dinamik bellek yönetiminin kullanılma sebebi öğrenildi.
+- malloc fonksiyonun sizeof ile nasıl kullanıldığı öğrenildi. free fonksiyonun kullanımı öğrenildi ve etkileri test edildi.
