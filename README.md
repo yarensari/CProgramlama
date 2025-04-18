@@ -182,3 +182,6 @@
 ### 10_01_dinamikBellekYonetimi
 - Dinamik bellek yönetiminin kullanılma sebebi öğrenildi.
 - malloc fonksiyonun sizeof ile nasıl kullanıldığı öğrenildi. free fonksiyonun kullanımı öğrenildi ve etkileri test edildi.
+### 10_02_dinamikBellekYonetimi
+- Tek boyutlu dizilerle dinamik bellek yönetimi öğrenildi.
+- Hem pointer mantığı hem de [] operatörü kullanılarak tek boyutlu diziye değer atandı ve atanan değerler yazdırıldı.
