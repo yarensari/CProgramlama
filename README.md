@@ -171,3 +171,9 @@
 - Örnek - 3 : Bir string ifade belirlendi ve bu string ifadenin içerisinde yer alan boşluk sayısı sayıldı. Bu işlemler bir fonksiyonda yapıldı ve boşluk sayısının değeri adresle tutularak main üzerinde direkt değişiklik sağlandı.
 - Örnek - 4 : String bir ifadenin tersini yazdırma fonksiyonu oluşturuldu ve bu yazdırma işleminde pointerlar kullanıldı.
 - Örnek - 5 : Pointer mantığı kullanılarak strlen ve strcmp fonksiyonları yazıldı.
+### 09_07_isaretciler
+- 4 adet soru çözüldü.
+- Soru - 1 : Random bir dizi oluşturuldu ve pointerlar kullanılarak dizinin düz ve ters hali konsol ekranına yazdırıldı.
+- Soru - 2 : Pointerlar kullanılarak strcat ve strcpy fonksiyonları oluşturuldu.
+- Soru - 3 : Kullanıcıdan bir string ifade ve karakter alındı. Bu string ifadede aranan karakterin kaç adet olduğu pointer kavramıyla tespit edildi.
+- Soru - 4 : Fonksiyon pointer array'i kullanılarak bir fonksiyondan başka fonksiyonların kullanımı sağlandı. Bu soruda toplama, çıkarma, bölme ve çarpma işlemlerinin fonksiyonu fonksiyon pointer array bekleyen bir fonksiyonla yönetildi.
