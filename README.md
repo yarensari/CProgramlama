@@ -185,3 +185,7 @@
 ### 10_02_dinamikBellekYonetimi
 - Tek boyutlu dizilerle dinamik bellek yönetimi öğrenildi.
 - Hem pointer mantığı hem de [] operatörü kullanılarak tek boyutlu diziye değer atandı ve atanan değerler yazdırıldı.
+### 10_03_dinamikBellekYonetimi
+- Pointer to pointer kavramı öğrenildi.
+- Pointer to pointer kavramıyla adres ve değerlere erişim konusunda uygulama yapıldı.
+- İki boyutlu dizi pointer to pointer mantığıyla oluşturuldu. Olusturulan bu diziye değer atandı ve ayrılan alanın nasıl geri iade edileceği öğrenildi.
