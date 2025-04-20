@@ -189,3 +189,5 @@
 - Pointer to pointer kavramı öğrenildi.
 - Pointer to pointer kavramıyla adres ve değerlere erişim konusunda uygulama yapıldı.
 - İki boyutlu dizi pointer to pointer mantığıyla oluşturuldu. Olusturulan bu diziye değer atandı ve ayrılan alanın nasıl geri iade edileceği öğrenildi.
+### 10_04_dinamikBellekYonetimi
+- Realloc ve calloc fonksiyonlarının nasıl kullanılacağı ve ne işe yaradıkları öğrenildi.
