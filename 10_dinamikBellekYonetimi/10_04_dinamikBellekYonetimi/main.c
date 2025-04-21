@@ -31,5 +31,7 @@ int main()
 		printf("%d ",*ptr);
 	}
 	
+	free(dizi);
+	
 	return 0;
 }
