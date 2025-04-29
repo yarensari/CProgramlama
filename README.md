@@ -191,3 +191,10 @@
 - İki boyutlu dizi pointer to pointer mantığıyla oluşturuldu. Olusturulan bu diziye değer atandı ve ayrılan alanın nasıl geri iade edileceği öğrenildi.
 ### 10_04_dinamikBellekYonetimi
 - Realloc ve calloc fonksiyonlarının nasıl kullanılacağı ve ne işe yaradıkları öğrenildi.
+### 10_05_dinamikBellekYonetimi
+- 5 adet örnek çözüldü.
+- Örnek - 1 : Kullanıcıdan alınan eleman sayısına göre dinamik bir şekilde dizi oluşturuldu (malloc). Oluşturulan bu dizi pointer mantığını kullanarak random değerlerle dolduruldu. Dizi seçmeli sıralama algoritmasıyla sıralandı.
+- Örnek - 2 : Örnek - 1'de oluşturulan dizide ikili arama algoritması uygulandı. 
+- Örnek - 3 : Dinamik bir ve random değerlerle iki boyutlu iki adet dizi oluşturulacak. Oluşturulan bu dizilerin matris toplamı gerçekleştirildi.
+- Örnek - 4 : Kullanıcıdan alınan satır ve sütun sayılarına göre birim matris oluşturuldu.
+- Örnek - 5 : Kullanıcıdan alınan satır ve sütun değerlerine göre random bir matris oluşturuldu ve bu matrisin transpozu alındı.
