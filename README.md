@@ -206,3 +206,8 @@
 - Soru - 4 : Kullanıcıdan alınan eleman sayısına göre dinamik bir şekilde random dizi oluşturuldu. Oluşturulan bu dizide araya sokma algoritması sadece pointerlar kullanılarak uygulandı.
 - Soru - 5 : Soru-4'te elde edilen sıralı dizide ardışıl arama algoritması uygulandı.
 - Önemli Not : Oluşturulan dizilerde başlangıç adresini kaybetmemek için ekstra bir pointer oluşturulmalı ve o pointer üzerinden işlemler yapılmalıdır.
+
+## 11_yapilarOrtakliklarNumaralandirmalar:
+### 11_01_yapilarOrtakliklarNumaralandirmalar
+- struct yapısı öğrenildi.
+- struct tanımı ve kullanımı öğrenildi.
