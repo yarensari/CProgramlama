@@ -214,3 +214,6 @@
 ### 11_02_yapilarOrtakliklarNumaralandirmalar
 - Oluşturulan struct veri tipinin dizi hali öğrenildi.
 - Struct dizilerine veri ataması ve yazdırılması öğrenildi.
+### 11_03_yapilarOrtakliklarNumaralandirmalar
+- Oluşturulan struct yapısına pointer ile erişim öğrenildi.
+- Pointer ile struct yapısında yer alan elemanlara değer atama öğrenildi. 
