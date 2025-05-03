@@ -198,3 +198,11 @@
 - Örnek - 3 : Dinamik bir ve random değerlerle iki boyutlu iki adet dizi oluşturulacak. Oluşturulan bu dizilerin matris toplamı gerçekleştirildi.
 - Örnek - 4 : Kullanıcıdan alınan satır ve sütun sayılarına göre birim matris oluşturuldu.
 - Örnek - 5 : Kullanıcıdan alınan satır ve sütun değerlerine göre random bir matris oluşturuldu ve bu matrisin transpozu alındı.
+### 10_06_dinamikBellekYonetimi
+- 5 adet soru çözüldü.
+- Soru - 1 : Kullanıcıdan iki adet string alındı ve alınan bu stringlerin birbirinin anagramı olup olmadığı kontrol edildi. Stringler dinamik bir şekilde alındı. Anagram kontrolünde harf frekansı yöntemi kullanıldı. 
+- Soru - 2 : Kullanıcıdan alınan satır ve sütun sayılarına göre dinamik bir şekilde iki boyutlu dizi oluşturuldu. Oluşturulan bu dizi kullanıcıdan alınan değerlerle dolduruldu. Elde edilen dizinin simetrik olup olmadığı sorgulandı.
+- Soru - 3 : Kullanıcıdan alınan satır ve sütun değerlerine göre iki adet iki boyutlu dizi oluşturuldu. Bu iki boyutlu dizilere random değerler atandı. Oluşturulan iki boyutlu dizilerin farkı hesaplandı. Bu fark hesaplamada ikinci matris - ile çarpıldı ve sonrasında toplama işlemi uygulandı.
+- Soru - 4 : Kullanıcıdan alınan eleman sayısına göre dinamik bir şekilde random dizi oluşturuldu. Oluşturulan bu dizide araya sokma algoritması sadece pointerlar kullanılarak uygulandı.
+- Soru - 5 : Soru-4'te elde edilen sıralı dizide ardışıl arama algoritması uygulandı.
+- Önemli Not : Oluşturulan dizilerde başlangıç adresini kaybetmemek için ekstra bir pointer oluşturulmalı ve o pointer üzerinden işlemler yapılmalıdır.
