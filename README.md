@@ -211,3 +211,6 @@
 ### 11_01_yapilarOrtakliklarNumaralandirmalar
 - struct yapısı öğrenildi.
 - struct tanımı ve kullanımı öğrenildi.
+### 11_02_yapilarOrtakliklarNumaralandirmalar
+- Oluşturulan struct veri tipinin dizi hali öğrenildi.
+- Struct dizilerine veri ataması ve yazdırılması öğrenildi.
