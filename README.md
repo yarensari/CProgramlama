@@ -221,3 +221,6 @@
 - Dinamik bellek yönetimiyle struct veri tipinden değişken üretilmesi öğrenildi.
 - Dinamik bellek yönetimiyle struct dizisi için değişken üretilmesi öğrenildi.
 - Dinamik bellek yönetimiyle oluşturulan dizinin indekslerine eleman eleman nasıl erişileceği ve değer atanacağı öğrenildi.
+### 11_05_yapilarOrtakliklarNumaralandirmalar
+- Oluşturulan struct veri tipinin fonksiyonlarla kullanımı öğrenildi.
+- typedef kelimesi öğrenildi.
