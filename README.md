@@ -216,4 +216,8 @@
 - Struct dizilerine veri ataması ve yazdırılması öğrenildi.
 ### 11_03_yapilarOrtakliklarNumaralandirmalar
 - Oluşturulan struct yapısına pointer ile erişim öğrenildi.
-- Pointer ile struct yapısında yer alan elemanlara değer atama öğrenildi. 
+- Pointer ile struct yapısında yer alan elemanlara değer atama öğrenildi.
+### 11_04_yapilarOrtakliklarNumaralandirmalar
+- Dinamik bellek yönetimiyle struct veri tipinden değişken üretilmesi öğrenildi.
+- Dinamik bellek yönetimiyle struct dizisi için değişken üretilmesi öğrenildi.
+- Dinamik bellek yönetimiyle oluşturulan dizinin indekslerine eleman eleman nasıl erişileceği ve değer atanacağı öğrenildi.
