@@ -224,3 +224,6 @@
 ### 11_05_yapilarOrtakliklarNumaralandirmalar
 - Oluşturulan struct veri tipinin fonksiyonlarla kullanımı öğrenildi.
 - typedef kelimesi öğrenildi.
+### 11_06_yapilarOrtakliklarNumaralandirmalar
+- Enumeration kavramı ve tanımlaması öğrenildi.
+- 
