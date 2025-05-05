@@ -226,4 +226,5 @@
 - typedef kelimesi öğrenildi.
 ### 11_06_yapilarOrtakliklarNumaralandirmalar
 - Enumeration kavramı ve tanımlaması öğrenildi.
-- 
+### 11_07_yapilarOrtakliklarNumaralandirmalar
+- Union kavramı ve tanımlaması öğrenildi.
