@@ -228,3 +228,9 @@
 - Enumeration kavramı ve tanımlaması öğrenildi.
 ### 11_07_yapilarOrtakliklarNumaralandirmalar
 - Union kavramı ve tanımlaması öğrenildi.
+### 11_08_yapilarOrtakliklarNumaralandirmalar
+- 4 adet örnek çözüldü.
+- Örnek - 1 : Kullanıcıdan saniye bilgisi alındı. Alınan saniye bilgisine göre struct ve struct dönen fonksiyon kullanılarak saat, dakika ve saniyeye dönüştürülmesi sağlandı.
+- Örnek - 2 : Element bilgilerini saklayabileceğimiz bir adet struct veri tipi oluşturuldu. Struct veri tipinden dizi oluşturuldu ve içerisine sembol, tam adı ve atom numarası bilgileri eklendi. Kullanıcıya bu veriler sembol adına göre sunuldu. Q tuşuna basılmasıyla program sonlandırıldı.
+- Örnek - 3 : Ürün bilgilerini içeren bir struct oluşturuldu (ürünün id, ürünün fiyatı ve ürünün adı). Kullanıcıdan alınan ürün sayısına göre dinamik bir şekilde struct dizisi oluşturuldu. Kullanıcıdan ürünün bilgileri alındı. Sonrasında da kullanıcıdan alınan id bilgisine göre ürünün bilgileri konsol ekranına yazdırıldı.
+- Örnek - 4 : Kullanıcıdan 4 adet koordinat bilgisi alındı ve dikdörtgen alan hesabı yapıldı. Koordinat bilgileri iç içe struct kullanılarak tutuldu.
