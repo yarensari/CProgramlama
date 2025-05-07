@@ -234,3 +234,9 @@
 - Örnek - 2 : Element bilgilerini saklayabileceğimiz bir adet struct veri tipi oluşturuldu. Struct veri tipinden dizi oluşturuldu ve içerisine sembol, tam adı ve atom numarası bilgileri eklendi. Kullanıcıya bu veriler sembol adına göre sunuldu. Q tuşuna basılmasıyla program sonlandırıldı.
 - Örnek - 3 : Ürün bilgilerini içeren bir struct oluşturuldu (ürünün id, ürünün fiyatı ve ürünün adı). Kullanıcıdan alınan ürün sayısına göre dinamik bir şekilde struct dizisi oluşturuldu. Kullanıcıdan ürünün bilgileri alındı. Sonrasında da kullanıcıdan alınan id bilgisine göre ürünün bilgileri konsol ekranına yazdırıldı.
 - Örnek - 4 : Kullanıcıdan 4 adet koordinat bilgisi alındı ve dikdörtgen alan hesabı yapıldı. Koordinat bilgileri iç içe struct kullanılarak tutuldu.
+### 11_09_yapilarOrtakliklarNumaralandirmalar
+- 4 adet soru çözüldü.
+- Soru - 1 : Kullanıcıdan 2 adet komplek sayı değerleri alındı. Kompleks sayıların toplamını sağlayan fonksiyon oluşturuldu. Kompleks sayının gerçek ve sanal kısımları tek bir değişken ile alındı. Bu iç içe struct kullanılarak sağlandı.
+- Soru - 2 : saatBilgileri isminde saat, dakika ve saniye değişkenlerini içeren struct oluşturuldu. Kullanıcıdan 2 adet saat bilgisi alındı ve bu saatler arasındaki fark hesaplandı. Fark hesaplanması yapılırken ikinci saatin birinci saate göre durumuna dikkat edildi.
+- Soru - 3 : Kitaplık projesi gerçekleştirildi. Kullanıcıdan alınan kitap sayısına göre dinamik struct dizisi oluşturuldu. Kullanıcıya kitap ekleme, kitap bulma ve kitapları görüntüleme imkanı sunuldu.
+- Soru - 4 : Soru - 3'te oluşturulan kitaplık projesine yetki sınırlaması getirildi. Kullanıcıya programın başına yetkisi soruldu. Programda öğrenci ve çalışan olmak üzere 2 adet yetki tanımlandı. Eğer kullanıcı öğrenci yetkisindeyse kitap eklemesine izin verilmedi; çalışan yetkisindeyse kitap eklemesine izin verildi.
