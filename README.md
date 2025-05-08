@@ -257,5 +257,7 @@
 - Dosya açma modları öğrenildi. Hem metin dosyaları hem de ikili dosyalar için kullanılan komutlar öğrenildi.
 - fclose fonksiyonu öğrenildi.
 ### 13_02_dosyaIslemleri
-- Dosyadan okuma işlemi yapıldı. EOF ifadesi öğrenildi.
-- 
+- Dosyadan okuma işlemi yapıldı. EOF ifadesi öğrenildi. fgetc fonksiyonu öğrenildi.
+### 13_03_dosyaIslemleri
+- Dosyadan satır bazında okuma ve yazma işlemi yapıldı. 
+- fgets, fputs ve feof fonksiyonlarının kullanımı öğrenildi.
