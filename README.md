@@ -240,3 +240,12 @@
 - Soru - 2 : saatBilgileri isminde saat, dakika ve saniye değişkenlerini içeren struct oluşturuldu. Kullanıcıdan 2 adet saat bilgisi alındı ve bu saatler arasındaki fark hesaplandı. Fark hesaplanması yapılırken ikinci saatin birinci saate göre durumuna dikkat edildi.
 - Soru - 3 : Kitaplık projesi gerçekleştirildi. Kullanıcıdan alınan kitap sayısına göre dinamik struct dizisi oluşturuldu. Kullanıcıya kitap ekleme, kitap bulma ve kitapları görüntüleme imkanı sunuldu.
 - Soru - 4 : Soru - 3'te oluşturulan kitaplık projesine yetki sınırlaması getirildi. Kullanıcıya programın başına yetkisi soruldu. Programda öğrenci ve çalışan olmak üzere 2 adet yetki tanımlandı. Eğer kullanıcı öğrenci yetkisindeyse kitap eklemesine izin verilmedi; çalışan yetkisindeyse kitap eklemesine izin verildi.
+## 12_onIslemciler
+### 12_01_onIslemciler
+- Ön işlem aşamasını ne olduğu öğrenildi.
+- Ön işlem aşamasında yapılanlar öğrenildi.
+- #define komutunun işlevleri öğrenildi. Sabit değer tanınması ve makro kullanımı test edildi. Makroların avantajı öğrenildi (her değişken tipi için çalışabilir olmasıdır).
+- Makro tanımlamalarda parantezlerin önemi öğrenildi. Eğer parantez kullanılmazsa işlem önceliğinin istediğimiz gibi olmayabileceği gözlemlendi.
+- #ifdef, #ifndef, #if defined() ve #if !defined() kullanılarak şartlı kontrolün ne olduğu ve nasıl kullanıldığı öğrenildi.
+- Şartlı kontrolde if-elseif-else.. kullanımı öğrenildi.
+- #undef kavramı öğrenildi.
