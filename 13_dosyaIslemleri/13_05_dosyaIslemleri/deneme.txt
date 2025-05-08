@@ -1,0 +1,9 @@
+YarenSari 2.71 ElektrikElektronikMuhendisligi
+EzgiBoz 3.74 ElektrikMuhendisligi
+OgunBirinci 3.74 BilgisayarMuhendisligi
+BetulKurt 2.61 BilgisayarMuhendisligi
+RamazanYilmaz 2.99 ElektrikElektronikMuhendisligi
+UtkuOral 2.54 ElektrikElektronikMuhendisligi
+IrayEylulUral 2.41 ElektrikElektronikMuhendisligi
+AysegulAyvaz 3.21 BilgisayarMuhendisligi
+ElifAyaz 3.54 SinifOgretmenligi
