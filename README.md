@@ -264,3 +264,7 @@
 ### 13_04_dosyaIslemleri
 - fscanf fonksiyonunun ne işe yaradığı ve nasıl kullanıldığı öğrenildi.
 - fprintf fonksiyonunun ne işe yaradığı ve nasıl kullanıldığı öğrenildi.
+### 13_05_dosyaIslemleri
+- feof, rewind, fseek ve fteel fonksiyonları öğrenildi. 
+- SEEK_SET, SEEK_CUR ve SEEK_END kelimelerinin kodlamadaki anlamları öğrenildi.
+- Öğrenilen fonksiyonlar ve kelimelerin kullanımı test edildi.
