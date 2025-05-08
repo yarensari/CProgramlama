@@ -256,3 +256,6 @@
 - fopen fonksiyonu öğrenildi.
 - Dosya açma modları öğrenildi. Hem metin dosyaları hem de ikili dosyalar için kullanılan komutlar öğrenildi.
 - fclose fonksiyonu öğrenildi.
+### 13_02_dosyaIslemleri
+- Dosyadan okuma işlemi yapıldı. EOF ifadesi öğrenildi.
+- 
