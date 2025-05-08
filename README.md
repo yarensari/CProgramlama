@@ -249,3 +249,10 @@
 - #ifdef, #ifndef, #if defined() ve #if !defined() kullanılarak şartlı kontrolün ne olduğu ve nasıl kullanıldığı öğrenildi.
 - Şartlı kontrolde if-elseif-else.. kullanımı öğrenildi.
 - #undef kavramı öğrenildi.
+## 13_dosyaIslemleri
+### 13_01_dosyaIslemleri
+- Dosya tiplerinden olan metin dosyaları ve ikili dosyalama türleri öğrenildi. Aralarındaki farklar ve dezavantajlara bakıldı.
+- FILE * kavramı öğrenildi.
+- fopen fonksiyonu öğrenildi.
+- Dosya açma modları öğrenildi. Hem metin dosyaları hem de ikili dosyalar için kullanılan komutlar öğrenildi.
+- fclose fonksiyonu öğrenildi.
