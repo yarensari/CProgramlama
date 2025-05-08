@@ -261,3 +261,6 @@
 ### 13_03_dosyaIslemleri
 - Dosyadan satır bazında okuma ve yazma işlemi yapıldı. 
 - fgets, fputs ve feof fonksiyonlarının kullanımı öğrenildi.
+### 13_04_dosyaIslemleri
+- fscanf fonksiyonunun ne işe yaradığı ve nasıl kullanıldığı öğrenildi.
+- fprintf fonksiyonunun ne işe yaradığı ve nasıl kullanıldığı öğrenildi.
