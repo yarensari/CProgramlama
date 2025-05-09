@@ -1,0 +1,35 @@
+Ad-Soyad:OgunBirinci
+Ortalamasi:58.80
+Harf Notu:DD
+Gectiniz.
+----------------
+Ad-Soyad:DuyguKeydal
+Ortalamasi:90.80
+Harf Notu:BA
+Gectiniz.
+----------------
+Ad-Soyad:EdaDeniz
+Ortalamasi:67.60
+Harf Notu:DC
+Gectiniz.
+----------------
+Ad-Soyad:BurakIkinci
+Ortalamasi:65.00
+Harf Notu:DC
+Gectiniz.
+----------------
+Ad-Soyad:HalilTasdelen
+Ortalamasi:42.60
+Harf Notu:FF
+Kaldiniz.
+----------------
+Ad-Soyad:OmerSelvi
+Ortalamasi:28.20
+Harf Notu:FF
+Kaldiniz.
+----------------
+Ad-Soyad:OguzBirinci
+Ortalamasi:97.40
+Harf Notu:AA
+Gectiniz.
+----------------
