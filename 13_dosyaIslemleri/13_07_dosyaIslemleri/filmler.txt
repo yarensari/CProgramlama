@@ -1,0 +1,32 @@
+Film Adi:TheShawshankRedemption
+Film Yonetmeni:FrankDarabont
+Yapim Yili:1994
+--------------------------------
+Film Adi:TheGodfather
+Film Yonetmeni:FrancisFord
+Yapim Yili:1972
+--------------------------------
+Film Adi:TheDarkKnight
+Film Yonetmeni:ChristopherNolan
+Yapim Yili:2008
+--------------------------------
+Film Adi:12AngryMen
+Film Yonetmeni:SidneyLumet
+Yapim Yili:1957
+--------------------------------
+Film Adi:TheLordOfTheRings
+Film Yonetmeni:PeterJackson
+Yapim Yili:2003
+--------------------------------
+Film Adi:SchindlersList
+Film Yonetmeni:StevenSpielberg
+Yapim Yili:1993
+--------------------------------
+Film Adi:PulpFiction
+Film Yonetmeni:QuentinTarantino
+Yapim Yili:1994
+--------------------------------
+Film Adi:ForrestGump
+Film Yonetmeni:RobertZemeckis
+Yapim Yili:1994
+--------------------------------
