@@ -268,3 +268,9 @@
 - feof, rewind, fseek ve fteel fonksiyonları öğrenildi. 
 - SEEK_SET, SEEK_CUR ve SEEK_END kelimelerinin kodlamadaki anlamları öğrenildi.
 - Öğrenilen fonksiyonlar ve kelimelerin kullanımı test edildi.
+### 13_06_dosyaIslemleri
+- 4 adet örnek çözüldü.
+- Örnek - 1 : İki adet dosyanın karşılaştırılması yapıldı. Eğer dosyaların boyutu birbirinden farklıysa karakter karşılaştırılması yapılmadan direkt boyutlarının farklı olduğu konsol ekranına yazdırıldı. Eğer karakter sayıları aynıysa her iki dosyanın karakterleri tek tek kontrol edildi.
+- Örnek - 2 : Bir dosyada yer alan karakterlerin büyük harfli hali diğer dosyaya aktarıldı. exit(0) hatasıyla çıkma öğrenildi.
+- Örnek - 3 : İki adet dosya oluşturuldu. Bir dosyadan okuma diğerinden yazma işlemi yapıldı. Okuma dosyasında yer alan veriler ters bir şekilde yazma dosyasında aktarıldı. Hem bütün verilerin aktarıldığı hem de n karakter kadar verilerin aktarıldığı fonksiyonlar oluşturuldu.
+- Örnek - 4 : notlar isminde bir txt dosyası oluşturuldu ve içerisinde öğrenci adı soyadı, vize notu ve final notu bilgileri yer aldı. Bu dosyadaki bilgiler elde edildi ve ortalama ile harf notu hesaplaması yapıldı. sonuclar isminde dosyaya bu bilgiler kaydedildi.
