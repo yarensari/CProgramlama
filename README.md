@@ -274,3 +274,9 @@
 - Örnek - 2 : Bir dosyada yer alan karakterlerin büyük harfli hali diğer dosyaya aktarıldı. exit(0) hatasıyla çıkma öğrenildi.
 - Örnek - 3 : İki adet dosya oluşturuldu. Bir dosyadan okuma diğerinden yazma işlemi yapıldı. Okuma dosyasında yer alan veriler ters bir şekilde yazma dosyasında aktarıldı. Hem bütün verilerin aktarıldığı hem de n karakter kadar verilerin aktarıldığı fonksiyonlar oluşturuldu.
 - Örnek - 4 : notlar isminde bir txt dosyası oluşturuldu ve içerisinde öğrenci adı soyadı, vize notu ve final notu bilgileri yer aldı. Bu dosyadaki bilgiler elde edildi ve ortalama ile harf notu hesaplaması yapıldı. sonuclar isminde dosyaya bu bilgiler kaydedildi.
+### 13_07_dosyaIslemleri
+- 4 adet soru çözüldü.
+- Soru - 1 : Dosyada yer alan kelime sayısı hesaplandı.
+- Soru - 2 : Kullanıcıdan bir kelime aldındı. Alınan bu kelimenin dosya.txt dosyasında bulunup bulunmadığı test edildi.
+- Soru - 3 : duzensiz.txt dosyasında yer alan cümleleri baş harfleri büyük harfe çevrildi ve duzenli.txt dosyasına kaydedildi.
+- Soru - 4 : Film bilgilerinin tutulduğu dosya oluşturuldu ve ismin filmler.txt verildi. Kullanıcıdan alınan film sayısı bilgisine göre oluşturulmuş olan filmBilgileri structından dinamik bellek oluşturuldu. Kullanıcıdan alınan film adı, film yönetmeni ve yapım yılı bilgileri filmler.txt dosyasına kaydedildi.
