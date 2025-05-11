@@ -280,3 +280,37 @@
 - Soru - 2 : Kullanıcıdan bir kelime aldındı. Alınan bu kelimenin dosya.txt dosyasında bulunup bulunmadığı test edildi.
 - Soru - 3 : duzensiz.txt dosyasında yer alan cümleleri baş harfleri büyük harfe çevrildi ve duzenli.txt dosyasına kaydedildi.
 - Soru - 4 : Film bilgilerinin tutulduğu dosya oluşturuldu ve ismin filmler.txt verildi. Kullanıcıdan alınan film sayısı bilgisine göre oluşturulmuş olan filmBilgileri structından dinamik bellek oluşturuldu. Kullanıcıdan alınan film adı, film yönetmeni ve yapım yılı bilgileri filmler.txt dosyasına kaydedildi.
+
+## OtelRezervasyonSistemiProjesi
+# 🏨 Otel Rezervasyon Sistemi Projesi
+Bu projede C dili kullanılarak temel bir **otel rezervasyon sistemi** geliştirilmiştir.
+## 👥 Kullanıcı Türleri
+Sistem iki farklı kullanıcı türünü destekler:
+- **Personel**
+- **Müşteri**
+### 🔐 Giriş ve Yetkilendirme
+- Program başında kullanıcıdan şifre istenir.
+- **Doğru personel şifresi** girilirse, tüm yönetimsel işlemler yapılabilir.
+- Şifre yanlış girilirse ya da kullanıcı müşteri olarak giriş yaparsa, sadece müşteri işlemlerine erişim sağlanır.
+## 👨‍💼 Personel Yetkileri
+- Yeni müşteri kaydı oluşturma
+- Dolu odaları listeleme
+- Oda çıkış işlemi yapma
+- Müşteri yetkilerine de erişebilir
+## 🙋‍♀️ Müşteri Yetkileri
+- Oda doluluk durumunu sorgulama
+- Kişi sayısı ve tarihlere göre fiyat bilgisi görüntüleme
+## 💾 Dosya İşlemleri
+- Kullanıcı sistemden çıkış yaptığında, **dolu odaların bilgileri** `otelKayit.txt` dosyasına **loglama amaçlı** kaydedilir.
+- Her çalıştırma yeni veriler ekler, önceki veriler silinmez.
+## 🛠️ Teknik Detaylar
+- Dinamik bellek kullanımı (`malloc`, `calloc`, `free`)
+- `enum`, `struct`, `typedef` gibi C diline özgü yapılar
+- Dosya işlemleri (`fopen`, `fprintf`, `fclose`)
+- Menü kontrollü kullanıcı arayüzü
+- Tarih farkı hesaplama algoritması (gün/ay/yıl ayrıştırmalı)
+## 📁 Dosyalar
+- `otelKayit.txt`: Program çıkışında dolu odaların loglarını tutar
+- `main.c`: Tüm rezervasyon sistemini içeren ana kaynak kod dosyası
+---
+📝 Bu proje temel C dili bilgileriyle yapılandırılmıştır ve dosya işleme, kullanıcı yönetimi, dinamik bellek kullanımı gibi konularda pratik geliştirme imkânı sunmuştur.
