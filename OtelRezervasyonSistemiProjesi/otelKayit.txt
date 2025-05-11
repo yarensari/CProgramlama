@@ -1,0 +1,28 @@
+Oda Numarasi:1
+Ad-Soyad:Yaren Sari
+Kisi Sayisi:2
+Giris Tarihi:12:3:2025
+Cikis Tarihi:19:3:2025
+Fiyat bilgisi:2100.00
+----------------------------------------------------
+Oda Numarasi:2
+Ad-Soyad:Ezgi Boz
+Kisi Sayisi:2
+Giris Tarihi:27:7:2025
+Cikis Tarihi:3:8:2025
+Fiyat bilgisi:1800.00
+----------------------------------------------------
+Oda Numarasi:3
+Ad-Soyad:Betul Kurt
+Kisi Sayisi:2
+Giris Tarihi:1:11:2025
+Cikis Tarihi:11:11:2025
+Fiyat bilgisi:3000.00
+----------------------------------------------------
+Oda Numarasi:4
+Ad-Soyad:Ogun Birinci
+Kisi Sayisi:2
+Giris Tarihi:11:5:2025
+Cikis Tarihi:19:5:2025
+Fiyat bilgisi:2400.00
+----------------------------------------------------
