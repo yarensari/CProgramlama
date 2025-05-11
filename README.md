@@ -281,7 +281,6 @@
 - Soru - 3 : duzensiz.txt dosyasında yer alan cümleleri baş harfleri büyük harfe çevrildi ve duzenli.txt dosyasına kaydedildi.
 - Soru - 4 : Film bilgilerinin tutulduğu dosya oluşturuldu ve ismin filmler.txt verildi. Kullanıcıdan alınan film sayısı bilgisine göre oluşturulmuş olan filmBilgileri structından dinamik bellek oluşturuldu. Kullanıcıdan alınan film adı, film yönetmeni ve yapım yılı bilgileri filmler.txt dosyasına kaydedildi.
 
-## OtelRezervasyonSistemiProjesi
 # 🏨 Otel Rezervasyon Sistemi Projesi
 Bu projede C dili kullanılarak temel bir **otel rezervasyon sistemi** geliştirilmiştir.
 ## 👥 Kullanıcı Türleri
