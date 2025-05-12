@@ -1,0 +1,8 @@
+HayvanCiftligi	GeorgeOrwell	Can	157	0
+FarelerVeInsanlar	JohnSteinbeck	Sel	112	0
+Simyaci	PauloCoelho	Can	192	0
+1984	GeorgeOrwell	Can	352	0
+InsanNeyleYasar	LevTolstoy	TurkiyeIsBankasi	86	0
+KirmiziPazartesi	GabrielGarciaMarquez	Can	112	0
+Cehennem	DanBrown	Altin	576	0
+C#	MuratYucedag	Dikeyeksen	477	0

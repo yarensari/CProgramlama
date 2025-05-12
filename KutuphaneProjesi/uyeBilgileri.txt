@@ -1,0 +1,4 @@
+Yaren	Sari	73	12345	1
+Ezgi	Boz	393	12345	0
+Betul	Kurt	547	12345	1
+Eylul	Ural	63	12345	0
