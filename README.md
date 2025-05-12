@@ -281,35 +281,64 @@
 - Soru - 3 : duzensiz.txt dosyasında yer alan cümleleri baş harfleri büyük harfe çevrildi ve duzenli.txt dosyasına kaydedildi.
 - Soru - 4 : Film bilgilerinin tutulduğu dosya oluşturuldu ve ismin filmler.txt verildi. Kullanıcıdan alınan film sayısı bilgisine göre oluşturulmuş olan filmBilgileri structından dinamik bellek oluşturuldu. Kullanıcıdan alınan film adı, film yönetmeni ve yapım yılı bilgileri filmler.txt dosyasına kaydedildi.
 
-# 🏨 Otel Rezervasyon Sistemi Projesi
+# Otel Rezervasyon Sistemi Projesi
 Bu projede C dili kullanılarak temel bir **otel rezervasyon sistemi** geliştirilmiştir.
-## 👥 Kullanıcı Türleri
+## Kullanıcı Türleri
 Sistem iki farklı kullanıcı türünü destekler:
 - **Personel**
 - **Müşteri**
-### 🔐 Giriş ve Yetkilendirme
+### Giriş ve Yetkilendirme
 - Program başında kullanıcıdan şifre istenir.
 - **Doğru personel şifresi** girilirse, tüm yönetimsel işlemler yapılabilir.
 - Şifre yanlış girilirse ya da kullanıcı müşteri olarak giriş yaparsa, sadece müşteri işlemlerine erişim sağlanır.
-## 👨‍💼 Personel Yetkileri
+## Personel Yetkileri
 - Yeni müşteri kaydı oluşturma
 - Dolu odaları listeleme
 - Oda çıkış işlemi yapma
 - Müşteri yetkilerine de erişebilir
-## 🙋‍♀️ Müşteri Yetkileri
+## Müşteri Yetkileri
 - Oda doluluk durumunu sorgulama
 - Kişi sayısı ve tarihlere göre fiyat bilgisi görüntüleme
-## 💾 Dosya İşlemleri
+## Dosya İşlemleri
 - Kullanıcı sistemden çıkış yaptığında, **dolu odaların bilgileri** `otelKayit.txt` dosyasına **loglama amaçlı** kaydedilir.
 - Her çalıştırma yeni veriler ekler, önceki veriler silinmez.
-## 🛠️ Teknik Detaylar
+## Teknik Detaylar
 - Dinamik bellek kullanımı (`malloc`, `calloc`, `free`)
 - `enum`, `struct`, `typedef` gibi C diline özgü yapılar
 - Dosya işlemleri (`fopen`, `fprintf`, `fclose`)
 - Menü kontrollü kullanıcı arayüzü
 - Tarih farkı hesaplama algoritması (gün/ay/yıl ayrıştırmalı)
-## 📁 Dosyalar
+## Dosyalar
 - `otelKayit.txt`: Program çıkışında dolu odaların loglarını tutar
 - `main.c`: Tüm rezervasyon sistemini içeren ana kaynak kod dosyası
 ---
-📝 Bu proje temel C dili bilgileriyle yapılandırılmıştır ve dosya işleme, kullanıcı yönetimi, dinamik bellek kullanımı gibi konularda pratik geliştirme imkânı sunmuştur.
+Bu proje temel C dili bilgileriyle yapılandırılmıştır ve dosya işleme, kullanıcı yönetimi, dinamik bellek kullanımı gibi konularda pratik geliştirme imkânı sunmuştur.
+
+# Kütüphane Projesi 
+
+Bu proje, C programlama dili kullanılarak geliştirilmiş basit bir **kütüphane yönetim sistemidir**. Kullanıcılar (öğrenciler ve çalışanlar) sisteme giriş yaparak rollerine uygun işlemleri gerçekleştirebilir.
+
+## Özellikler
+
+**Giriş Sistemi**
+- Kullanıcı, kayıtlı bir ID ve şifre ile giriş yapar.
+- Yeni kullanıcılar sisteme kaydolabilir.
+- Kullanıcının rolü (`ogrenci` veya `calisan`) kayıt sırasında belirlenir.
+
+**Öğrenci Yetkileri**
+- Tüm kitapları görüntüleyebilir.
+- Kitap adıyla arama yapabilir.
+
+**Çalışan Yetkileri**
+- Yeni kitap ekleyebilir.
+- Üye listesini görüntüleyebilir.
+
+**Dosya İşlemleri**
+- Program başında `uyeBilgileri.txt` ve `kitapBilgileri.txt` dosyalarından veri okunur.
+- Program sonunda yapılan değişiklikler bu dosyalara kaydedilir.
+
+## Veri Yapıları
+
+- `struct`: Kullanıcı ve kitap bilgilerini tanımlamak için.
+- `enum`: Kullanıcı yetki seviyeleri için (`ogrenci`, `calisan`).
+- `dynamic memory`: Kullanıcı ve kitap bilgilerinde esneklik sağlamak için (`malloc`, `calloc`).
